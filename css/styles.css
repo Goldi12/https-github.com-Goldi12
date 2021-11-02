@@ -19,7 +19,7 @@ body {
 /* <!-- 50px from top 0 for left and right, 20px for botton---> */
 .bottom-container {
   text-decoration: none;
-  background-color: #DFD8CA;
+  background-color: #CEE5D0;
   padding: 50px 0 20px;
 }
 
@@ -135,7 +135,7 @@ hr {
 }
 /* <-- 10 px for top and botton 20px for left and right-->text-decoration: none--> */
 a{
-  color: #11999E;
+  color: #483434;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
